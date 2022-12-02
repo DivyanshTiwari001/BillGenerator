@@ -1,0 +1,1 @@
+Thanks {{name}} for shopping from {{outlet}}.You have to pay {{price}} Rupees for the {{item}} you have purchased.
